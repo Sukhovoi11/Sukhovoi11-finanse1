@@ -175,27 +175,27 @@ Ponizej znajduje sie dokumentacja wizualna najwazniejszych ekranow aplikacji uru
 | Dashboard / saldo glowne | ![Dashboard z saldem i szybkimi akcjami](zdjec/img_1.png) |
 | Dodawanie przychodu | ![Formularz dodawania przychodu](zdjec/img_2.png) |
 | Dodawanie wydatku | ![Formularz dodawania wydatku](zdjec/img_3.png) |
-| Historia operacji | ![Historia transakcji](zdjec/img_4.png) |
-| Cele oszczednosciowe | ![Lista i formularz celow oszczednosciowych](zdjec/img_5.png) |
-| Przypomnienia o platnosciach | ![Przypomnienia platnosci](zdjec/img_6.png) |
-| Statystyki kategorii | ![Statystyki wydatkow po kategoriach](zdjec/img_7.png) |
-| Ranking globalny | ![Ranking globalny uzytkownikow](zdjec/img_8.png) |
+| Plan i cele | ![Historia transakcji](zdjec/img_4.png) |
+| Przypomnienia o platnosciach | ![Lista i formularz celow oszczednosciowych](zdjec/img_5.png) |
+| Ranking globalny| ![Przypomnienia platnosci](zdjec/img_6.png) |
+| Historia operacji | ![Statystyki wydatkow po kategoriach](zdjec/img_7.png) |
+| Profil i personalizacja  | ![Ranking globalny uzytkownikow](zdjec/img_8.png) |
 | Profil i personalizacja | ![Profil uzytkownika i ustawienia](zdjec/img_9.png) |
 
 ---
 
 ## Bibliografia
 
-1. Expo Documentation, dokumentacja platformy Expo dla aplikacji React Native, https://docs.expo.dev/ (data dostepu: 12.05.2026).
-2. React Native Documentation, dokumentacja frameworka React Native, https://reactnative.dev/docs/getting-started (data dostepu: 12.05.2026).
-3. React Documentation, dokumentacja biblioteki React, https://react.dev/ (data dostepu: 12.05.2026).
+1. Expo Documentation, dokumentacja platformy Expo dla aplikacji React Native, https://docs.expo.dev/ (data dostepu: 10.04.2026).
+2. React Native Documentation, dokumentacja frameworka React Native, https://reactnative.dev/docs/getting-started (data dostepu: 15.04.2026).
+3. React Documentation, dokumentacja biblioteki React, https://react.dev/ (data dostepu: 19.04.2026).
 4. React Navigation Documentation, dokumentacja nawigacji w aplikacjach React Native, https://reactnavigation.org/docs/getting-started (data dostepu: 12.05.2026).
-5. Axios Documentation, dokumentacja klienta HTTP Axios, https://axios-http.com/docs/intro (data dostepu: 12.05.2026).
-6. react-native-svg Documentation, dokumentacja biblioteki SVG dla React Native, https://github.com/software-mansion/react-native-svg (data dostepu: 12.05.2026).
-7. Express Documentation, dokumentacja frameworka Express dla Node.js, https://expressjs.com/ (data dostepu: 12.05.2026).
-8. SQLite Documentation, dokumentacja bazy danych SQLite, https://www.sqlite.org/docs.html (data dostepu: 12.05.2026).
-9. node-sqlite3 Documentation, dokumentacja pakietu sqlite3 dla Node.js, https://github.com/TryGhost/node-sqlite3 (data dostepu: 12.05.2026).
-10. jsonwebtoken Documentation, dokumentacja pakietu do obslugi tokenow JWT, https://github.com/auth0/node-jsonwebtoken (data dostepu: 12.05.2026).
-11. bcrypt Documentation, dokumentacja pakietu bcrypt dla Node.js, https://github.com/kelektiv/node.bcrypt.js (data dostepu: 12.05.2026).
-12. dotenv Documentation, dokumentacja pakietu dotenv, https://github.com/motdotla/dotenv (data dostepu: 12.05.2026).
-13. CORS middleware for Express, dokumentacja pakietu cors, https://github.com/expressjs/cors (data dostepu: 12.05.2026).
+5. Axios Documentation, dokumentacja klienta HTTP Axios, https://axios-http.com/docs/intro (data dostepu: 6.03.2026).
+6. react-native-svg Documentation, dokumentacja biblioteki SVG dla React Native, https://github.com/software-mansion/react-native-svg (data dostepu: 22.03.2026).
+7. Express Documentation, dokumentacja frameworka Express dla Node.js, https://expressjs.com/ (data dostepu: 22.03.2026).
+8. SQLite Documentation, dokumentacja bazy danych SQLite, https://www.sqlite.org/docs.html (data dostepu: 29.03.2026).
+9. node-sqlite3 Documentation, dokumentacja pakietu sqlite3 dla Node.js, https://github.com/TryGhost/node-sqlite3 (data dostepu: 28.03.2026).
+10. jsonwebtoken Documentation, dokumentacja pakietu do obslugi tokenow JWT, https://github.com/auth0/node-jsonwebtoken (data dostepu: 27.04.2026).
+11. bcrypt Documentation, dokumentacja pakietu bcrypt dla Node.js, https://github.com/kelektiv/node.bcrypt.js (data dostepu: 01.05.2026).
+12. dotenv Documentation, dokumentacja pakietu dotenv, https://github.com/motdotla/dotenv (data dostepu: 01.05.2026).
+13. CORS middleware for Express, dokumentacja pakietu cors, https://github.com/expressjs/cors (data dostepu: 01.05.2026).
